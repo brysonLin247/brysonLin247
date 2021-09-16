@@ -1,5 +1,5 @@
 ### Hi My Name is BrysonLin 👋
-#### 🔭 I’m currently working on DJI
+#### 🔭 I’m currently working on DJI[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brysonLin247)](https://github.com/anuraghazra/github-readme-stats)
 #### 🌱 I’m currently learning Fronted
 
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brysonLin247)](https://github.com/anuraghazra/github-readme-stats)
+
