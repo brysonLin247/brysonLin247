@@ -1,6 +1,6 @@
-### Hi there 👋
-### 🔭 I’m currently working on DJI
-### 🌱 I’m currently learning Fronted
+### Hi My Name is BrysonLin 👋
+#### 🔭 I’m currently working on DJI
+#### 🌱 I’m currently learning Fronted
 
 
 
