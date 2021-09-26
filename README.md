@@ -4,7 +4,7 @@
 <!-- - 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，19 线程序员小 UP</a>
 - 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a> -->
 <!-- - 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 程序员鱼皮 』</a> -->
-- 💬 微信：xxx
+- 💬 微信：ljjx247
 
 
 ## 今年汇总 ✨
